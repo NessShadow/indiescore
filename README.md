@@ -1,5 +1,4 @@
 
-
 # 📖 IndieScore — README
 
 ## Overview
@@ -134,7 +133,3 @@ indiescore-main/
 ## 📜 License
 
 See [LICENSE](LICENSE).
-
-
-Do you want me to make **two versions of the README** (one super simple for end-users, one technical for devs), or just keep this single detailed one?
-godb.com/docs/manual/tutorial/perform-maintence-on-replica-set-members/).
