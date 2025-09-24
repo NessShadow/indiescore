@@ -1,0 +1,72 @@
+[
+  {
+    "image_path": "test_images/20250529110230_001.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_002.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_003.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_004.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_005.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_006.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_007.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_008.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_009.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_010.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_011.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_012.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_013.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  },
+  {
+    "image_path": "test_images/20250529110230_014.jpg",
+    "error": "PositionMapper.__init__() takes 2 positional arguments but 3 were given",
+    "detection_method": "failed"
+  }
+]

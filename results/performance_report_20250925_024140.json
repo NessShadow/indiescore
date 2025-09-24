@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-25T02:41:40.982243",
+  "summary": {
+    "total_images": 14,
+    "successful_detections": 0,
+    "failed_detections": 14,
+    "c_detections": 0,
+    "python_fallback_detections": 0
+  },
+  "detailed_results": [
+    {
+      "image": "20250529110230_001.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_002.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_003.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_004.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_005.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_006.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_007.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_008.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_009.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_010.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_011.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_012.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_013.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    },
+    {
+      "image": "20250529110230_014.jpg",
+      "detection_method": "failed",
+      "score": "N/A",
+      "status": "failed",
+      "error": "cannot import name 'OMRScorer' from 'python_backend.scoring' (/workspace/hybrid_omr_system/python_backend/scoring.py)"
+    }
+  ],
+  "performance_metrics": {
+    "detection_success_rate": 0.0,
+    "c_detection_rate": 0.0,
+    "average_score": 0.0
+  }
+}

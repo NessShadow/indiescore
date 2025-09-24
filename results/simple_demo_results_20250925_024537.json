@@ -1,0 +1,1696 @@
+[
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "+01",
+      "7": "001",
+      "8": "011",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "011",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "+01",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_001.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:35.746971"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "--+",
+      "5": "--+",
+      "6": "001",
+      "7": "000",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "011",
+      "14": "011",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "000",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_002.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:35.868571"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "+00",
+      "7": "-00",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "011",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "+00",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "-00",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_003.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:36.048924"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "011",
+      "7": "\u00b1-0",
+      "8": "011",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "011",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "\u00b1-0",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_004.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:36.169168"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "+01",
+      "7": "--0",
+      "8": "001",
+      "9": "011",
+      "10": "011",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "011",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "+01",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "--0",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_005.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:36.349097"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "-+0",
+      "7": "\u00b100",
+      "8": "001",
+      "9": "011",
+      "10": "011",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "011",
+      "15": "\u00b1-0"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "-+0",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b1-0",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_006.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:36.468996"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "+01",
+      "7": "001",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "011",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "+01",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_007.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:36.647973"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "+00",
+      "7": "+00",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "011",
+      "14": "011",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "+00",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "+00",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_008.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:36.768577"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "+00",
+      "7": "-00",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "111",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "+00",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "-00",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_009.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:36.948405"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "--+",
+      "5": "--+",
+      "6": "+00",
+      "7": "\u00b1--",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "111",
+      "15": "\u00b1-0"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "+00",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "\u00b1--",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b1-0",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_010.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:37.068607"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "+00",
+      "7": "--0",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "111",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "+00",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "--0",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_011.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:37.249044"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "--+",
+      "5": "--+",
+      "6": "++0",
+      "7": "001",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "111",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "++0",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_012.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:37.369346"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "--+",
+      "7": "011",
+      "8": "001",
+      "9": "011",
+      "10": "011",
+      "11": "011",
+      "12": "011",
+      "13": "011",
+      "14": "011",
+      "15": "\u00b1-0"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b1-0",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_013.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:37.549476"
+  },
+  {
+    "answers": {
+      "1": "",
+      "2": "\u00b1\u00b1\u00b1",
+      "3": "\u00b1\u00b1-",
+      "4": "---",
+      "5": "--+",
+      "6": "++0",
+      "7": "001",
+      "8": "001",
+      "9": "111",
+      "10": "001",
+      "11": "011",
+      "12": "011",
+      "13": "001",
+      "14": "011",
+      "15": "\u00b100"
+    },
+    "score_summary": {
+      "total_questions": 15,
+      "correct": 0,
+      "incorrect": 14,
+      "blank": 1,
+      "score_percentage": 0.0
+    },
+    "detailed_comparison": [
+      {
+        "question": 1,
+        "correct": "4",
+        "detected": "",
+        "status": "blank"
+      },
+      {
+        "question": 2,
+        "correct": "8",
+        "detected": "\u00b1\u00b1\u00b1",
+        "status": "incorrect"
+      },
+      {
+        "question": 3,
+        "correct": "12",
+        "detected": "\u00b1\u00b1-",
+        "status": "incorrect"
+      },
+      {
+        "question": 4,
+        "correct": "7",
+        "detected": "---",
+        "status": "incorrect"
+      },
+      {
+        "question": 5,
+        "correct": "1",
+        "detected": "--+",
+        "status": "incorrect"
+      },
+      {
+        "question": 6,
+        "correct": "23",
+        "detected": "++0",
+        "status": "incorrect"
+      },
+      {
+        "question": 7,
+        "correct": "34",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 8,
+        "correct": "56",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 9,
+        "correct": "78",
+        "detected": "111",
+        "status": "incorrect"
+      },
+      {
+        "question": 10,
+        "correct": "90",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 11,
+        "correct": "-5",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 12,
+        "correct": "-12",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 13,
+        "correct": "+8",
+        "detected": "001",
+        "status": "incorrect"
+      },
+      {
+        "question": 14,
+        "correct": "\u00b13",
+        "detected": "011",
+        "status": "incorrect"
+      },
+      {
+        "question": 15,
+        "correct": "100",
+        "detected": "\u00b100",
+        "status": "incorrect"
+      }
+    ],
+    "image_path": "test_images/20250529110230_014.jpg",
+    "processing_method": "Python OpenCV",
+    "timestamp": "2025-09-25T02:45:37.670932"
+  }
+]

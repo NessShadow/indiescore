@@ -1,0 +1,81 @@
+=== DETAILED SCORING REPORT ===
+Generated: 2025-09-24 23:00:07
+Exam: Sample Test
+Total Questions: 100
+
+=== OVERALL STATISTICS ===
+Total Sheets Processed: 14
+Sheets Passed: 0
+Pass Rate: 0.00%
+Average Score: 19.64%
+
+=== INDIVIDUAL RESULTS ===
+Sheet 1: 20250529110230_001.jpg
+  Score: 20/100 (20.00%)
+  Status: FAILED
+  Breakdown: 20 correct, 80 incorrect, 0 blank
+
+Sheet 2: 20250529110230_002.jpg
+  Score: 24/100 (24.00%)
+  Status: FAILED
+  Breakdown: 24 correct, 76 incorrect, 0 blank
+
+Sheet 3: 20250529110230_003.jpg
+  Score: 22/100 (22.00%)
+  Status: FAILED
+  Breakdown: 22 correct, 78 incorrect, 0 blank
+
+Sheet 4: 20250529110230_004.jpg
+  Score: 22/100 (22.00%)
+  Status: FAILED
+  Breakdown: 22 correct, 78 incorrect, 0 blank
+
+Sheet 5: 20250529110230_005.jpg
+  Score: 20/100 (20.00%)
+  Status: FAILED
+  Breakdown: 20 correct, 80 incorrect, 0 blank
+
+Sheet 6: 20250529110230_006.jpg
+  Score: 21/100 (21.00%)
+  Status: FAILED
+  Breakdown: 21 correct, 79 incorrect, 0 blank
+
+Sheet 7: 20250529110230_007.jpg
+  Score: 21/100 (21.00%)
+  Status: FAILED
+  Breakdown: 21 correct, 79 incorrect, 0 blank
+
+Sheet 8: 20250529110230_008.jpg
+  Score: 18/100 (18.00%)
+  Status: FAILED
+  Breakdown: 18 correct, 82 incorrect, 0 blank
+
+Sheet 9: 20250529110230_009.jpg
+  Score: 17/100 (17.00%)
+  Status: FAILED
+  Breakdown: 17 correct, 83 incorrect, 0 blank
+
+Sheet 10: 20250529110230_010.jpg
+  Score: 12/100 (12.00%)
+  Status: FAILED
+  Breakdown: 12 correct, 88 incorrect, 0 blank
+
+Sheet 11: 20250529110230_011.jpg
+  Score: 20/100 (20.00%)
+  Status: FAILED
+  Breakdown: 20 correct, 80 incorrect, 0 blank
+
+Sheet 12: 20250529110230_012.jpg
+  Score: 20/100 (20.00%)
+  Status: FAILED
+  Breakdown: 20 correct, 80 incorrect, 0 blank
+
+Sheet 13: 20250529110230_013.jpg
+  Score: 19/100 (19.00%)
+  Status: FAILED
+  Breakdown: 19 correct, 81 incorrect, 0 blank
+
+Sheet 14: 20250529110230_014.jpg
+  Score: 19/100 (19.00%)
+  Status: FAILED
+  Breakdown: 19 correct, 81 incorrect, 0 blank

@@ -1,0 +1,81 @@
+=== DETAILED SCORING REPORT ===
+Generated: 2025-09-25 02:27:42
+Exam: Mathematics Test - Numeric Answers
+Total Questions: 100
+
+=== OVERALL STATISTICS ===
+Total Sheets Processed: 14
+Sheets Passed: 0
+Pass Rate: 0.00%
+Average Score: 7.64%
+
+=== INDIVIDUAL RESULTS ===
+Sheet 1: 20250529110230_001.jpg
+  Score: 9/100 (9.00%)
+  Status: FAILED
+  Breakdown: 9 correct, 91 incorrect, 0 blank
+
+Sheet 2: 20250529110230_002.jpg
+  Score: 10/100 (10.00%)
+  Status: FAILED
+  Breakdown: 10 correct, 90 incorrect, 0 blank
+
+Sheet 3: 20250529110230_003.jpg
+  Score: 6/100 (6.00%)
+  Status: FAILED
+  Breakdown: 6 correct, 94 incorrect, 0 blank
+
+Sheet 4: 20250529110230_004.jpg
+  Score: 7/100 (7.00%)
+  Status: FAILED
+  Breakdown: 7 correct, 93 incorrect, 0 blank
+
+Sheet 5: 20250529110230_005.jpg
+  Score: 10/100 (10.00%)
+  Status: FAILED
+  Breakdown: 10 correct, 90 incorrect, 0 blank
+
+Sheet 6: 20250529110230_006.jpg
+  Score: 8/100 (8.00%)
+  Status: FAILED
+  Breakdown: 8 correct, 92 incorrect, 0 blank
+
+Sheet 7: 20250529110230_007.jpg
+  Score: 7/100 (7.00%)
+  Status: FAILED
+  Breakdown: 7 correct, 93 incorrect, 0 blank
+
+Sheet 8: 20250529110230_008.jpg
+  Score: 4/100 (4.00%)
+  Status: FAILED
+  Breakdown: 4 correct, 96 incorrect, 0 blank
+
+Sheet 9: 20250529110230_009.jpg
+  Score: 6/100 (6.00%)
+  Status: FAILED
+  Breakdown: 6 correct, 94 incorrect, 0 blank
+
+Sheet 10: 20250529110230_010.jpg
+  Score: 12/100 (12.00%)
+  Status: FAILED
+  Breakdown: 12 correct, 88 incorrect, 0 blank
+
+Sheet 11: 20250529110230_011.jpg
+  Score: 12/100 (12.00%)
+  Status: FAILED
+  Breakdown: 12 correct, 88 incorrect, 0 blank
+
+Sheet 12: 20250529110230_012.jpg
+  Score: 6/100 (6.00%)
+  Status: FAILED
+  Breakdown: 6 correct, 94 incorrect, 0 blank
+
+Sheet 13: 20250529110230_013.jpg
+  Score: 4/100 (4.00%)
+  Status: FAILED
+  Breakdown: 4 correct, 96 incorrect, 0 blank
+
+Sheet 14: 20250529110230_014.jpg
+  Score: 6/100 (6.00%)
+  Status: FAILED
+  Breakdown: 6 correct, 94 incorrect, 0 blank
