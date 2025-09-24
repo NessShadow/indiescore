@@ -1,0 +1,27 @@
+[app]
+default_welcome = "Welcome to Combined OMR Scorer! {name} ({role})\nYou are logged in as: {email}"
+max_upload_size = 16777216  # 16MB
+allowed_extensions = ["png", "jpg", "jpeg", "pdf"]
+
+[processing]
+confidence_threshold = 0.85
+auto_correct = false
+batch_size = 10
+max_concurrent_jobs = 4
+
+[export]
+default_format = "csv"
+include_images = true
+include_confidence_scores = true
+
+[ui]
+theme = "light"
+show_progress_bar = true
+enable_preview = true
+max_preview_size = 1048576  # 1MB
+
+[security]
+enable_cors = true
+allowed_origins = ["http://localhost:3000", "http://localhost:5173"]
+auth_required = false
+session_timeout = 3600  # 1 hour

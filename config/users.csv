@@ -1,0 +1,9 @@
+# User Access Configuration
+# Format: access,email,name,role,welcome_message
+# Access levels: 1=Student, 2=Teacher, 3=Admin, 4=Developer, 5=Superadmin
+
+access,email,name,role,welcome_message
+5,admin@example.com,"System Administrator",Superadmin,"Welcome to OMR Scorer Admin Panel!"
+3,teacher@example.com,"John Teacher",Teacher,"Welcome Teacher! Ready to grade some papers?"
+2,grader@example.com,"Jane Grader",Assistant,"Welcome! You can help with grading."
+1,student@example.com,"Test Student",Student,"Welcome Student! View your results here."
