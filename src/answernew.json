@@ -1,0 +1,103 @@
+{
+    "Formats":[
+        {
+            "Paper":{
+                "Width":3507,
+                "height":2480
+            },
+            "Question":{
+                "Column":13,
+                "Row":5,
+                "Width":40,
+                "Height":40,
+                "WidthNext":47,
+                "HeightNext":48,
+                "Primary":true
+            },
+            "Sheet":{
+                "Column":4,
+                "Row":9,
+                "X":743,
+                "Y":51,
+                "WidthNext":714,
+                "HeightNext":268,
+                "Primary":false
+            },
+            "StudentIDCheck":{
+                "X":189,
+                "Y":771,
+                "Column":9,
+                "Row":10,
+                "Width":45,
+                "Height":45,
+                "WidthNext":49,
+                "HeightNext":52,
+                "Primary":false
+            },
+            "SubjectIDCheck":{
+                "X":12,
+                "Y":771,
+                "Column":3,
+                "Row":10,
+                "Width":45,
+                "Height":45,
+                "WidthNext":49,
+                "HeightNext":52,
+                "Primary":false
+            }
+        }
+    ],
+    "Subjects":{
+        "10 ":{
+            "MaxScore":36,
+            "Choices":["+","-","&","0","1","2","3","4","5","6","7","8","9"],
+            "AnswerList":[
+                "12389",
+                "67450",
+                "1+2  ",
+                "3&4  ",
+                "&98  ",
+                "-5   ",
+                "608  ",
+                "56   ",
+                "5+6  ",
+
+                "12   ",
+                "23   ",
+                "34   ",
+                "56   ",
+                "78   ",
+                "89   ",
+                "100  ",
+                "12   ",
+                "23   ",
+
+                "1    ",
+                "1    ",
+                "1    ",
+                "1    ",
+                "1    ",
+                "1    ",
+                "1    ",
+                "1    ",
+                "1    ",
+
+                "1    ",
+                "2    ",
+                "3    ",
+                "4    ",
+                "4    ",
+                "3    ",
+                "2    ",
+                "1    ",
+                "0    "
+            ],
+            "BiasScore":[
+                1, 1, 1, 1, 1, 1, 1, 1, 1,
+                1, 1, 1, 1, 1, 1, 1, 1, 1,
+                1, 1, 1, 1, 1, 1, 1, 1, 1,
+                1, 1, 1, 1, 1, 1, 1, 1, 1
+            ]
+        }
+    }
+}
