@@ -1,63 +1,140 @@
-##For user
 
-Introduction
-  - This is an application for a simple automatic grading system.
 
-System Overview
-  - This application consist of 2 software, the command line tool for read_answer and a software with ui for an end users.
+# 📖 IndieScore — README
 
-Installation
-  - Ensure c, make, gtk4 and mongo-tools are installed.
-  - Clone the repository (https://github.com/napookooo/read_answer) and run `make`.
-  - Use the binary file ui to start using the program.
+## Overview
 
-Getting Started
-  - Run the binary file 'ui' to start using, the user will require a password to continue forward with the program, after the right password is entered user can now use the program.
+**IndieScore** is an automated exam scoring system that processes multiple-choice answer sheets. It supports both:
 
-Features and Functions
-  - Grading 1 selected file at a time.
-  - Grading 1 selected directory at a time.
-  - Push the result in output directory into a database.
+* **Web app** (Streamlit) for browser-based usage.
+* **Desktop app** (Tauri) for offline use on Windows, macOS, and Linux.
+* **CLI mode** for advanced users.
 
-FAQ
-  - If there are any questions, they can be ask in https://github.com/napookooo/read_answer.
+---
 
-'
-'
-'
+## ✨ Features
 
-##For dev
+* Upload and manage answer keys
+* Upload scanned answer sheets (PDF/PNG/JPG)
+* Automatic calibration and scoring
+* Export results to CSV/Excel
+* Works online (Web) or offline (Desktop)
 
-Introduction
-  - This is an application for a simple automatic grading system.
-  - Using C language with the help of gtk4 for ui and mongodb for databae.
+---
 
-System Architecture
-  - Consist of 3 modules, the database to store the results, the grading application, and the ui for end users.
-  - The database and grading application work independently, while the ui is the brdige for end users to simplify the usage of both database and grading application.
+## 📦 Installation
 
-Installation
-  - Ensure c, make, gtk4, mongodb and mongo-tools are installed.
-  - Clone the repository (https://github.com/napookooo/read_answer) and run `make`.
-  - Setup database using instruction from Database_setup.txt.
+### 1. Clone Repository
 
-Code Structure
-  - All of the source code are in the src/ directory inside the root directory of the project, editing the source code are encourage for a better experience (using `make` to build your newly edited code).
+```bash
+git clone https://github.com/your-org/indiescore.git
+cd indiescore
+```
 
-Database Design
-  - Using mongodb, the default configuration are in the Database_setup.txt.
-  - Developer are allow to design database that better suited the different usage.
+### 2. Python Setup (Backend)
 
-Deployment Guide
-  - See database setup from Database_setup.txt in manuals directory of the project.
+```bash
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate   # (Linux/Mac)
+venv\Scripts\activate      # (Windows)
 
-Testing
-  - Can try the database after setup by following Database_setup.txt.
-  - The application and ui can be tested by using them with the answer sheet of the same type from the school admins.
+# Install dependencies
+pip install -r requirements.txt
+```
 
-Contribution Guidelines
-  - Make a pull request in the https://github.com/napookooo/read_answer repository.
-  - How to make a pull request -> https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+### 3. Web Interface (Streamlit)
 
-Maintenance
-  - Only the mongodb database is the main point of maintenance in this stage (https://www.mongodb.com/docs/manual/tutorial/perform-maintence-on-replica-set-members/).
+```bash
+cd ui
+pip install -r requirements.txt   # if UI has extra deps
+streamlit run app.py
+```
+
+Then open the link shown in the terminal (usually `http://localhost:8501`).
+
+### 4. Desktop Interface (Tauri)
+
+> Requires **Node.js** and **Rust** installed.
+
+```bash
+cd ui
+npm install
+npm run tauri dev
+```
+
+This launches the desktop app locally. To build an installer:
+
+```bash
+npm run tauri build
+```
+
+### 5. CLI Mode (Hybrid Scorer)
+
+```bash
+python main_hybrid.py --config config/example.yaml --input ./read_ans --output ./results
+```
+
+---
+
+## 🚀 Usage
+
+### Step 1 — Prepare Answer Key
+
+* Place your answer key (YAML/JSON) inside the `config/` folder.
+* Or use the **Answer Key Manager** in the UI to create one.
+
+### Step 2 — Upload Answer Sheets
+
+* Scan all sheets at **300 DPI**.
+* Place them in the `read_ans/` folder.
+* Supported formats: **PDF, JPG, PNG**.
+
+### Step 3 — Run Scoring
+
+* **Web/Desktop:** Use the **Upload Sheets** button → click **Start Scoring**.
+* **CLI:** Run `main_hybrid.py` with the proper config.
+
+### Step 4 — View Results
+
+* Scores appear in the **Results Panel**.
+* Export results via the UI or check the `results/` folder (CSV/Excel).
+
+---
+
+## 🛠 Troubleshooting
+
+| Problem             | Solution                                              |
+| ------------------- | ----------------------------------------------------- |
+| App doesn’t start   | Check Python/Node.js versions, reinstall dependencies |
+| Sheets not detected | Ensure they are in `read_ans/` and correctly scanned  |
+| Wrong scores        | Verify correct answer key is selected                 |
+| Export fails        | Make sure you have write permissions in `results/`    |
+
+---
+
+## 📂 Project Structure
+
+```
+indiescore-main/
+├── main_hybrid.py         # CLI entry point
+├── hybrid_scorer.py       # Scoring logic
+├── answer_key_manager.py  # Answer key handler
+├── score_sheets.py        # Core scoring pipeline
+├── calibrate_positions.py # Sheet alignment
+├── ui/                    # Web + Desktop frontends
+├── config/                # Config files (keys, formats)
+├── read_ans/              # Input sheets
+├── results/               # Output scores
+└── manuals/               # Docs
+```
+
+---
+
+## 📜 License
+
+See [LICENSE](LICENSE).
+
+
+Do you want me to make **two versions of the README** (one super simple for end-users, one technical for devs), or just keep this single detailed one?
+godb.com/docs/manual/tutorial/perform-maintence-on-replica-set-members/).
