@@ -26,7 +26,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-org/indiescore.git
+git clone https://github.com/NessShadow/indiescore.git
 cd indiescore
 ```
 
